@@ -3,6 +3,15 @@ A first year Computer Science student at McMaster University. I like to explore 
 
 ### 🔭 I’m currently working on
 
+* **[AI-Voice-Diary](https://github.com/duanxianpi/AI-Voice-Diary):** Using voice to keep a journal.
+* **[QtLive2d](https://github.com/duanxianpi/QtLive2d):** Qt-based Live2d widget
+
+### 📖 Hobbies
+* In my free time I like to read, especially detective novels and science fiction.
+* I also like to study philosophy, and I am interested in big philosophical questions such as the meaning of life
+
+### 📫 How to reach me
+* [LinkedIn](https://www.linkedin.com/in/xianpi-duan-a728b622a/)
 <!--
 **duanxianpi/duanxianpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
