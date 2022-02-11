@@ -5,6 +5,7 @@ A first year Computer Science student at McMaster University. I like to explore 
 
 * **[AI-Voice-Diary](https://github.com/duanxianpi/AI-Voice-Diary):** Using voice to keep a journal.
 * **[QtLive2d](https://github.com/duanxianpi/QtLive2d):** Qt-based Live2d widget
+* **[OCREye](https://github.com/duanxianpi/OCREye):** A OCR Software based on Google Cloud Platform
 
 ### 📖 Hobbies
 * In my free time I like to read, especially detective novels and science fiction.
