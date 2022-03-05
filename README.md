@@ -13,7 +13,7 @@ A first year Computer Science student at McMaster University. I like to explore 
 
 ### 📫 How to reach me
 * [LinkedIn](https://www.linkedin.com/in/xianpi-duan-a728b622a/)
-* [Here is my resume!](https://github.com/duanxianpi/duanxianpi/blob/a9114640bfb8040009bf106cd0d687d2ef752d38/resume.pdf)
+* [Here is my resume!](https://raw.githubusercontent.com/duanxianpi/duanxianpi/a9114640bfb8040009bf106cd0d687d2ef752d38/resume.pdf)
 
 
 ![Xianpi Duan's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanxianpi&show_icons=true&theme=react)
