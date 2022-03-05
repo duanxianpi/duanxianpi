@@ -1,5 +1,5 @@
 ### 👋 Hi there, I am Xianpi Duan
-A first year Computer Science student at McMaster University. I like to explore different development frameworks and languages. I started learning Java in high school, and during that time I taught myself C/C++, Python, and other languages. I was able to learn a lot of new things in the process, and I really enjoyed the feeling of gaining new knowledge. Right now I am looking for a Coop internship for **Summer 2022**.
+A first year Computer Science student at McMaster University. I like to explore different development frameworks and languages. I started learning Java in high school, and during that time I taught myself C/C++, Python, and other languages. I was able to learn a lot of new things in the process, and I really enjoyed the feeling of gaining new knowledge. Right now I am looking for a Coop internship for **Summer 2022**. 
 
 ### 🔭 I’m currently working on
 
@@ -13,6 +13,7 @@ A first year Computer Science student at McMaster University. I like to explore 
 
 ### 📫 How to reach me
 * [LinkedIn](https://www.linkedin.com/in/xianpi-duan-a728b622a/)
+* [Here is my resume!](https://github.com/duanxianpi/duanxianpi/blob/a9114640bfb8040009bf106cd0d687d2ef752d38/resume.pdf)
 
 
 ![Xianpi Duan's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanxianpi&show_icons=true&theme=react)
