@@ -10,8 +10,8 @@ I am a computer science student in my second year at McMaster University. I am a
 * **[OCREye](https://github.com/duanxianpi/OCREye):** A OCR Software based on Google Cloud Platform
 
 ### 📖 Hobbies
-* 📚 In my free time I like to read, especially science fiction.
-* 🎸 In my leisure time, I enjoy playing the guitar. Even though I'm poor at it, doing this is still a enjoyable way to unwind.
+* 📚 In my free time I like reading, especially science fiction.
+* 🎸 I also enjoy playing the guitar. Even though I'm poor at it, doing this is still a enjoyable way to unwind.
 * 🚲 I also love riding on nature trails and exploring the natural scenery.
 
 ### 📫 How to reach me
