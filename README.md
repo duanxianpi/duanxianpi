@@ -1,5 +1,5 @@
 ### 👋 Hi there, I am Xianpi Duan
-I am a computer science student in my second year at McMaster University. I am actively seeking a co-op opportunity for the summer of 2023. 
+A Computer Science student in my third year at McMaster University. I am actively seeking a co-op opportunity for the winter and summer of 2024. 
 
 ### 🔭 I’m currently working on
 
@@ -15,7 +15,7 @@ I am a computer science student in my second year at McMaster University. I am a
 * 🚲 I also love riding on nature trails and exploring the natural scenery.
 
 ### 📫 How to reach me
-* [LinkedIn](https://www.linkedin.com/in/xianpi-duan-a728b622a/)
+* [LinkedIn](https://www.linkedin.com/in/xianpi-duan/)
 
 
 ![Xianpi Duan's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanxianpi&show_icons=true&theme=react)
