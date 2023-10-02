@@ -17,8 +17,7 @@ A Computer Science student in my third year at McMaster University. I am activel
 ### 📫 How to reach me
 * [LinkedIn](https://www.linkedin.com/in/xianpi-duan/)
 
-
-![Xianpi Duan's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanxianpi&show_icons=true&theme=react)
+![](https://raw.githubusercontent.com/duanxianpi/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/duanxianpi/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--
 **duanxianpi/duanxianpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
