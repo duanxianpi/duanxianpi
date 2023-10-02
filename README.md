@@ -1,5 +1,5 @@
 ### 👋 Hi there, I am Xianpi Duan
-A Computer Science student in my third year at McMaster University. I am actively seeking a co-op opportunity for the winter and summer of 2024. 
+A Computer Science student in my third year at McMaster University. I am actively seeking a co-op opportunity for the summer of 2024. 
 
 ### 🔭 I’m currently working on
 
