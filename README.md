@@ -3,10 +3,10 @@ A Computer Science student in my third year at McMaster University. I am activel
 
 ### 🔭 I’m currently working on
 
-* **[InstCal](https://devpost.com/software/instacal-eohuy0):** InstaCal is a web-based application that provides food and nutritional information to users.
+* **[artistic-qrcode-generator](https://github.com/duanxianpi/artistic-qrcode-generator):** Generate your own artisitic Qr Code in 5 mins!
+* **[QtLive2d](https://github.com/duanxianpi/QtLive2d):** Qt-based Live2d widget
 * **[Personal Web](https://github.com/duanxianpi/duanxianpi.github.io):** My personal web written by React.JS.
 * **[AI-Voice-Diary](https://github.com/duanxianpi/AI-Voice-Diary):** Using voice to keep a journal.
-* **[QtLive2d](https://github.com/duanxianpi/QtLive2d):** Qt-based Live2d widget
 * **[OCREye](https://github.com/duanxianpi/OCREye):** A OCR Software based on Google Cloud Platform
 
 ### 📖 Hobbies
