@@ -2,7 +2,7 @@
 A Computer Science student in my third year at McMaster University. I am actively seeking a co-op opportunity for the summer of 2024. 
 
 ### 🔭 I’m currently working on
-
+* **[siyuan-plugin-nbviewer](https://github.com/duanxianpi/siyuan-plugin-nbviewer):** A plugin enables people to view Jupyter Notebook in SiYuan.
 * **[artistic-qrcode-generator](https://github.com/duanxianpi/artistic-qrcode-generator):** Generate your own artisitic Qr Code in 5 mins!
 * **[QtLive2d](https://github.com/duanxianpi/QtLive2d):** Qt-based Live2d widget
 * **[Personal Web](https://github.com/duanxianpi/duanxianpi.github.io):** My personal web written by React.JS.
