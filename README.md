@@ -4,7 +4,7 @@ A Computer Science student in my third year at McMaster University. I am activel
 ### 🔭 I’m currently working on
 * **[obsidian-zotero-reader-plugin](https://github.com/duanxianpi/obsidian-zotero-reader-plugin):** A plugin allow you make annotation in Obsidian with Zotero.
 * **[artistic-qrcode-generator](https://github.com/duanxianpi/artistic-qrcode-generator):** Generate your own artisitic Qr Code in 5 mins!
-* **[InstCal](https://github.com/duanxianpi/):** A Yolov5-based food calorie calculator
+* **[InstalCal](https://github.com/duanxianpi/InstalCal):** A Yolov5-based food calorie calculator
 * **[QtLive2d](https://github.com/duanxianpi/QtLive2d):** Qt-based Live2d widget
 * **[Personal Web](https://github.com/duanxianpi/duanxianpi.github.io):** My personal web written by React.JS.
 * **[AI-Voice-Diary](https://github.com/duanxianpi/AI-Voice-Diary):** Using voice to keep a journal.
