@@ -2,7 +2,7 @@
 A Computer Science student in my third year at McMaster University. I am actively seeking a co-op opportunity for the summer of 2024. 
 
 ### 🔭 I’m currently working on
-* **[obsidian-zotero-reader-plugin](https://github.com/duanxianpi/obsidian-zotero-reader-plugin):** A plugin allow you make annotation in Obsidian with Zotero.
+* **[zotflow](https://github.com/duanxianpi/zotflow):** Keep your research in flow!
 * **[artistic-qrcode-generator](https://github.com/duanxianpi/artistic-qrcode-generator):** Generate your own artisitic Qr Code in 5 mins!
 * **[InstalCal](https://github.com/duanxianpi/InstalCal):** A Yolov5-based food calorie calculator
 * **[QtLive2d](https://github.com/duanxianpi/QtLive2d):** Qt-based Live2d widget
