@@ -1,8 +1,9 @@
 ### 👋 Hi there, I am Xianpi Duan
-A Computer Science student in my third year at McMaster University. I am actively seeking a co-op opportunity for the summer of 2024. 
+A MScAC student in my first year at University of Toronto. 
 
 ### 🔭 I’m currently working on
 * **[zotflow](https://github.com/duanxianpi/zotflow):** Keep your research in flow!
+* **[IntelliTeX](https://huggingface.co/duanxianpi/IntelliTex):** IntelliTeX: Natural Language → LaTeX (Experimental)
 * **[artistic-qrcode-generator](https://github.com/duanxianpi/artistic-qrcode-generator):** Generate your own artisitic Qr Code in 5 mins!
 * **[InstalCal](https://github.com/duanxianpi/InstalCal):** A Yolov5-based food calorie calculator
 * **[QtLive2d](https://github.com/duanxianpi/QtLive2d):** Qt-based Live2d widget
