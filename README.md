@@ -19,8 +19,8 @@ A MScAC student in my first year at University of Toronto.
 ### 📫 How to reach me
 * [LinkedIn](https://www.linkedin.com/in/xianpi-duan/)
 
-![](https://raw.githubusercontent.com/duanxianpi/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/duanxianpi/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/duanxianpi/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/duanxianpi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/duanxianpi/github-stats/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/duanxianpi/github-stats/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/duanxianpi/github-stats/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/duanxianpi/github-stats/generated/languages.svg#gh-dark-mode-only)
 <!--
 **duanxianpi/duanxianpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
